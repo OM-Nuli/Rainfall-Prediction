@@ -1,6 +1,6 @@
 # Rain Prediction (Australia)
 
-A beginner-level binary classification project that predicts whether it rains the next day at an Australian weather station, using the **weatherAUS** dataset.
+A binary classification project that predicts whether it rains the next day at an Australian weather station, using the **weatherAUS** dataset.
 
 ## Problem Statement
 
